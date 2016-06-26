@@ -1,0 +1,834 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: studio-lib\n"
+"POT-Creation-Date: 2016-02-04 12:09+0800\n"
+"PO-Revision-Date: 2016-01-03 20:34+0800\n"
+"Last-Translator: ancientcc <ancientcc@leagor.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;vgettext2\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: kingdom-src/kingdom/studio\n"
+"X-Poedit-SearchPath-1: kingdom-res/po/cfg-cpp/studio-lib\n"
+
+#: kingdom-res/po/cfg-cpp/studio-lib/data.cpp:1
+msgid "Chat module"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:1
+msgid "(bottom-right)"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:3
+msgid "(top-left)"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:5
+msgid "Append"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:7
+msgid "Automatic placement"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:9
+msgid "Border"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:11
+msgid "Cancel"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:13
+msgid "Change"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:15
+msgid "Change Language"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:17
+msgid "Change Resolution"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:19
+msgid "Change the language"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:21
+#: kingdom-src/kingdom/studio/gui/dialogs/example2.cpp:45
+msgid "Chat"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:23
+msgid "Click dismiss"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:25
+msgid "Close"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:27
+msgid "Configure the game's settings"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:29
+msgid "Crop image"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:31
+msgid "Delete"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:33
+msgid "Description"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:35
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:114
+msgid "Design"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:37
+msgid "Design dialog"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:39
+msgid "Drawing setting"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:41
+msgid "Drawing setting dialog"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:43
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:88
+msgid "Erase"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:45
+msgid "Example2"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:47
+msgid "Execute"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:49
+msgid "Fixed height"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:51
+msgid "Fixed width"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:53
+msgid "Full Screen"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:55
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:816
+msgid "Gap"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:57
+msgid "Grid setting."
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:59
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:175
+msgid "Height"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:61
+msgid "Hide"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:63
+msgid "Horizontal layout"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:65
+msgid "Horizontal mode"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:67
+#: kingdom-src/kingdom/studio/gui/dialogs/mode_navigate.cpp:117
+#: kingdom-src/kingdom/studio/gui/dialogs/mode_navigate.cpp:157
+msgid "ID"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:69
+msgid "Interested drag"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:71
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:87
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:108
+msgid "Linked group"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:73
+msgid "Linked_group setting"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:75
+msgid "Make window"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:77
+msgid "Misc"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:79
+msgid "Modify"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:81
+msgid "NO."
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:83
+msgid "OK"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:85
+msgid "Ownership"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:87
+msgid "Param"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:89
+msgid "Pixel"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:91
+msgid "Profile player hero"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:93
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1263
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1602
+msgid "Quit"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:95
+msgid "Quit the game"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:97
+msgid "Remove"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:99
+msgid "Remove from this resolution"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:101
+msgid "Report's id"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:103
+msgid "Shape of map tile "
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:105
+msgid "Start the dialog editor"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:107
+msgid "Start the theme editor"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:109
+msgid "Submenu"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:111
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:179
+msgid "Terrain filename(Exclude '.png')"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:113
+msgid "Transition filename prefix(Include '-' if necessary)"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:115
+msgid "Type"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:117
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:810
+msgid "Unit height"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:119
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:803
+msgid "Unit width"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:121
+msgid "Use custom settings"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:123
+msgid "Use rect layout"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:125
+msgid "Vertical layout"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:127
+msgid "Vertical mode"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:129
+msgid "Welcome to ROSE."
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:131
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:167
+msgid "Width"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:133
+msgid "Window setting."
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:135
+msgid "control_setting"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:137
+msgid "definition"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:139
+msgid "grow_factor"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:141
+msgid "height"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:143
+msgid "id"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:145
+msgid "indention_step_size"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:147
+msgid "label"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:149
+msgid "linked_group2"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:151
+msgid "node's id"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:153
+msgid "rect"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:155
+msgid "rect^ref"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:157
+msgid "tooltip"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:159
+msgid "widget^definition"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:161
+msgid "width"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:163
+msgid "x"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:165
+msgid "x1="
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:167
+msgid "x2="
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:169
+msgid "xanchor"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:171
+msgid "y"
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:173
+msgid "y1="
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:175
+msgid "y2="
+msgstr ""
+
+#: kingdom-res/po/cfg-cpp/studio-lib/gui.cpp:177
+msgid "yanchor"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:87
+msgid "Invalid '$id' value!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:128
+msgid "Align left. Maybe stretch"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:130
+msgid "Align left"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:132
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:143
+msgid "Align center"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:134
+msgid "Align right"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:139
+msgid "Align top. Maybe stretch"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:141
+msgid "Align top"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:145
+msgid "Align bottom"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:150
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:157
+msgid "Always invisible"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:152
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:159
+msgid "Auto visible"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:168
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:176
+msgid "$field1 fixed, $field2 fixed"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:169
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:177
+msgid "$field1 fixed, $field2 scalable"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:170
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:178
+msgid "$field1 scalable, $field2 fixed"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:182
+msgid "Auto"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:183
+msgid "Landscape"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:184
+msgid "Portrait"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:252
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:107
+msgid "Base"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:253
+msgid "Rectangle"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:254
+msgid "Size"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:255
+msgid "Advanced"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:398
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:406
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:414
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:422
+msgid "Absolute"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:400
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:402
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:408
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:410
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:416
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:424
+msgid "ref's $field"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:418
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:426
+msgid "My $field"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:771
+#: kingdom-src/kingdom/studio/gui/dialogs/drawing_setting.cpp:122
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:327
+msgid "Can not empty!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:782
+msgid "Maximum value must large than minimum value!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:788
+msgid "Step size must > 0!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:792
+msgid "Step size must < maximum_value - minimum_value!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:803
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:810
+msgid "must be larger than 0!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:816
+msgid "must not be less than 0!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:1360
+msgid "$id is absolute type, must not be contain '+' or '-'!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/control_setting.cpp:1371
+msgid "$id must be integer!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:125
+msgid "Input filename"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:157
+msgid "Transition filename prefix(Include '-' if necessary"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:159
+msgid "Stuff filename prefix(Include '-' if necessary"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:185
+msgid "corner(w,h),mid(w,h)"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:216
+msgid "Invalid '$key' value, not accept empty"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:225
+msgid "'$key' value must combine $min to $max characters"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:227
+msgid "'$key' value must be $min characters"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:257
+msgid "First edit box input"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/design.cpp:262
+msgid "Second edit box input"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/example2.cpp:46
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1260
+msgid "Preferences"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/linked_group.cpp:172
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:780
+msgid "String is using."
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/linked_group.cpp:184
+msgid "Both width and height must not be all No!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:74
+msgid "Select"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:75
+msgid "Status"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:76
+msgid "Grid"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:77
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:650
+msgid "Go into"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:78
+msgid "Right Click"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:82
+msgid "theme"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:82
+msgid "dialog"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:84
+msgid "Check for errors in the $window"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:85
+msgid "Settings"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:86
+msgid "Special Setting"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:90
+msgid "Insert top"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:91
+msgid "Inert bottom"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:92
+msgid "Erase row"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:93
+msgid "Insert left"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:94
+msgid "Insert right"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:95
+msgid "Erase column"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:97
+msgid "Insert child"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:98
+msgid "Erase child"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:100
+msgid "Unpack"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:130
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1598
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:2426
+msgid "Theme"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mkwin_theme.cpp:132
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1598
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:2428
+msgid "Dialog"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mode_navigate.cpp:117
+msgid "New patch"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mode_navigate.cpp:154
+msgid "Original ID"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/mode_navigate.cpp:157
+msgid "Rename patch"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/rose.cpp:152
+msgid "V"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/rose.cpp:155
+msgid "Version"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:101
+msgid "Window setting"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:109
+msgid "Context menu"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:110
+msgid "Patch"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:716
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:719
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:722
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:1023
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:1026
+msgid "Yes"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:962
+msgid "Parent menu $menu"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:1102
+msgid "Unit"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/gui/dialogs/window_setting.cpp:1139
+msgid "Layer"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:617
+msgid "Return"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:761
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1113
+msgid "widget($widget) has rect, must set id!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:908
+msgid "$id holds grid that not all spacer. Do you want to delete?"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1073
+msgid "Check successfully!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1105
+msgid "On theme top, duplicated '$id' value!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1109
+msgid "widget($widget) is on theme top, must set rect!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1124
+msgid "Widget on top layer has error. Be back top to get error detail."
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1131
+msgid "Widget on second layer has error. Go into $widget to get error detail."
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1133
+msgid "Another widget on top layer has error. Be back top to get error detail."
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1147
+msgid "widget($widget) has all spacer layer!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1199
+msgid "Window isn't ready!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1249
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1513
+msgid "Save"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1251
+msgid "Load"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1257
+msgid "Save As"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1340
+msgid "Choose a Window to Open"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1342
+msgid "gui/theme"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1344
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1517
+msgid "gui/window"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1368
+msgid "Invalid theme cfg file!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1377
+msgid "Invalid dialog cfg file!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1513
+msgid "Choose a Window to Save"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1515
+msgid "data/themes"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1595
+msgid "Do you really want to quit?"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1599
+msgid "Changes in the $window since the last save will be lost."
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:1721
+msgid "Once unpake, can not be back to template. Do you want to unpake $id?"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_controller.cpp:2378
+msgid "Duplicate mode!"
+msgstr ""
+
+#: kingdom-src/kingdom/studio/mkwin_display.cpp:52
+msgid "Cannot find widget definition(id: $id, type: $type, definition: $definition)! Force to use definition $default."
+msgstr ""

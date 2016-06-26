@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="gui">
+      <UniqueIdentifier>{7fdd98a3-9ff9-46a8-a25a-a1e8e71e7241}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\dialogs">
+      <UniqueIdentifier>{16293b46-8d37-4005-a537-7b9e0e7ad448}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\studio\mkwin_controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\mkwin_display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\unit2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\unit_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\column_setting.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\control_setting.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\drawing_setting.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\edit_formula.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\grid_setting.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\linked_group.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\mkwin_theme.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\mode_navigate.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\rose.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\row_setting.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\window_setting.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\game_config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\design.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\gui\dialogs\build.cpp">
+      <Filter>gui\dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\studio\editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\studio\mkwin_controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\mkwin_display.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\unit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\unit2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\unit_map.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\cell_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\column_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\control_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\drawing_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\edit_formula.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\grid_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\linked_group.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\mkwin_theme.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\mode_navigate.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\rose.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\row_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\window_setting.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\game_config.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\design.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\editor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\studio\gui\dialogs\build.hpp">
+      <Filter>gui\dialogs</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
